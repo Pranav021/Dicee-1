@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+#OutPut
+
+![Screenshot (22)](https://user-images.githubusercontent.com/59467842/144719174-8130e7f8-016a-49ae-8b0d-40c2850e7b55.png)
+
+![Screenshot (26)](https://user-images.githubusercontent.com/59467842/144719183-669e9fad-5c58-4639-969f-76976c4944ff.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
